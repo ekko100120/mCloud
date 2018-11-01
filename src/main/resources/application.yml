@@ -1,0 +1,5 @@
+# server port setting
+server:
+  port: 9999
+# set to debug pattern
+debug: true
